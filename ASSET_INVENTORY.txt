@@ -1,0 +1,92 @@
+Asset inventory from the uploaded WebScrapBook archive
+=======================================================
+
+Detected content checks:
+- Couple names: FOUND
+- Cover video: FOUND
+- Ganesha video: FOUND
+- Gallery images: FOUND
+- Animation JS: FOUND
+- Scratch card JS: FOUND
+- Gallery lightbox JS: FOUND
+
+Assets:
+- 6xKtdSZaM9iE8KbpRA_hJFQNcOM.woff2 | .woff2 | 8.6 KB
+- 6xKtdSZaM9iE8KbpRA_hJVQNcOM.woff2 | .woff2 | 26.0 KB
+- 6xKtdSZaM9iE8KbpRA_hK1QN.woff2 | .woff2 | 27.6 KB
+- 92zatBhPNqw73oDd4iYl.woff2 | .woff2 | 9.9 KB
+- 92zatBhPNqw73oTd4g.woff2 | .woff2 | 26.0 KB
+- 92zatBhPNqw73ord4iYl.woff2 | .woff2 | 16.7 KB
+- Dreamy_Ganesha.jpg | .jpg | 831.7 KB
+- Golden-Temple-Divider-Ornament.png | .png | 564.5 KB
+- Poppins-Bold.woff | .woff | 70.8 KB
+- Poppins-Bold.woff2 | .woff2 | 50.7 KB
+- Poppins-Medium.woff | .woff | 71.0 KB
+- Poppins-Medium.woff2 | .woff2 | 50.5 KB
+- Poppins-Regular.woff | .woff | 71.8 KB
+- Poppins-Regular.woff2 | .woff2 | 51.3 KB
+- Poppins-SemiBold.woff | .woff | 71.5 KB
+- Poppins-SemiBold.woff2 | .woff2 | 51.2 KB
+- Qw3aZQNVED7rKGKxtqIqX5EUA3x4RHw.woff2 | .woff2 | 20.8 KB
+- Qw3aZQNVED7rKGKxtqIqX5EUAnx4RHw.woff2 | .woff2 | 8.4 KB
+- Qw3aZQNVED7rKGKxtqIqX5EUDXx4.woff2 | .woff2 | 27.9 KB
+- RWmMoKWR9v4ksMfaWd_JN9XBiaQ6DQ.woff2 | .woff2 | 44.2 KB
+- RWmMoKWR9v4ksMfaWd_JN9XFiaQ.woff2 | .woff2 | 41.8 KB
+- RWmMoKWR9v4ksMfaWd_JN9XIiaQ6DQ.woff2 | .woff2 | 4.4 KB
+- RWmMoKWR9v4ksMfaWd_JN9XJiaQ6DQ.woff2 | .woff2 | 3.1 KB
+- RWmMoKWR9v4ksMfaWd_JN9XKiaQ6DQ.woff2 | .woff2 | 11.4 KB
+- RWmMoKWR9v4ksMfaWd_JN9XLiaQ6DQ.woff2 | .woff2 | 64.9 KB
+- bride.png | .png | 2426.9 KB
+- co3bmX5slCNuHLi8bLeY9MK7whWMhyjYp3tKgS4.woff2 | .woff2 | 32.9 KB
+- co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpHtKgS4.woff2 | .woff2 | 22.9 KB
+- co3bmX5slCNuHLi8bLeY9MK7whWMhyjYpntKgS4.woff2 | .woff2 | 11.0 KB
+- co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtK.woff2 | .woff2 | 36.8 KB
+- co3bmX5slCNuHLi8bLeY9MK7whWMhyjYrXtKgS4.woff2 | .woff2 | 20.7 KB
+- cover-poster.jpg | .jpg | 126.1 KB
+- cropped-android-chrome-512x512-1-192x192.png | .png | 2.6 KB
+- cropped-android-chrome-512x512-1-32x32.png | .png | 0.8 KB
+- divine-wedding1.mp4 | .mp4 | 3120.6 KB
+- elephants.webp | .webp | 41.9 KB
+- floral-corner-DlsvLbZy.webp | .webp | 91.8 KB
+- gallery-1.png | .png | 2328.1 KB
+- gallery-2.png | .png | 2344.5 KB
+- gallery-3.png | .png | 2336.0 KB
+- gallery-4.png | .png | 2374.1 KB
+- gallery-5.png | .png | 2478.6 KB
+- gallery-6.png | .png | 2337.6 KB
+- ganesha.mp4 | .mp4 | 4254.5 KB
+- groom.png | .png | 2252.3 KB
+- icon1-8c3664.svg | .svg | 1.2 KB
+- ishq_sufiyana_-_piano_cover.wav | .wav | 3729.9 KB
+- lamp-208cb5.svg | .svg | 1.5 KB
+- my-bg-dark.webp | .webp | 196.2 KB
+- my-marsk-9a2f57.svg | .svg | 1.6 KB
+- nuFiD-vYSZviVYUb_rj3ij__anPXDTLYgFE_.woff2 | .woff2 | 20.6 KB
+- nuFiD-vYSZviVYUb_rj3ij__anPXDTPYgFE_.woff2 | .woff2 | 8.9 KB
+- nuFiD-vYSZviVYUb_rj3ij__anPXDTjYgFE_.woff2 | .woff2 | 20.7 KB
+- nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgA.woff2 | .woff2 | 37.5 KB
+- photo-cover.webp | .webp | 94.1 KB
+- rangoli.webp | .webp | 110.7 KB
+- wedding-custom.webp | .webp | 145.2 KB
+- wedding-haldi.webp | .webp | 110.3 KB
+- wedding-mehndi.webp | .webp | 106.7 KB
+- wedding-reception.webp | .webp | 86.9 KB
+- wedding-sangeet.webp | .webp | 116.9 KB
+- wedding-vanue.webp | .webp | 310.1 KB
+- wedding.webp | .webp | 238.5 KB
+- wprmenu.ttf | .ttf | 1.1 KB
+- wprmenu.woff | .woff | 1.2 KB
+
+Extension totals:
+- .jpg: 2
+- .mp4: 2
+- .png: 11
+- .svg: 3
+- .ttf: 1
+- .wav: 1
+- .webp: 12
+- .woff: 5
+- .woff2: 28
+
+Content excerpt from captured HTML:
+Divine Wedding - My Invitations ॥ श्री गणेशाय नमः ॥ ॥ श्री गणेशाय नमः ॥ Kapil Sharma & Sapna Sharma ❦ ✿ ❦ 25th December 2026 Scroll With immense joy, we invite you to celebrate this special occasion with us. Your presence, love, and blessings will make this celebration truly memorable. ❤ Getting to Know Us Meet The Couple Two hearts, one beautiful journey together. The Groom Kapil Sharma Son of Mr. Deepak Sharma & Mrs. Poonam Sharma The Bride Sapna Sharma Daughter of Mr. Pankaj Sharma & Mrs. Divya Sharma “Two hearts, one beautiful journey — tied with a sacred thread and a garland of jasmine.” A Little Surprise Save The Date Scratch the golden card below to uncover the day our forever begins. 🎉 Save the Date 25th December 2026 Grand Palace Grand Palace, Mumbai Swipe across the card Counting Down The start of a beautiful journey… 124 Days 18 Hours 26 Minutes 04 Seconds Sunday | 21st Feb 2027 Suryagarh Palace, Jaisalmer Captured Moments Photo Memories ❦ ✿ ❦ 📎 📎 📎 📎 📎 📎 × ‹ › Celebrations Wedding Functions We would love to see you at each one. Wedding Event · 01 Haldi Turmeric, marigolds and laughter — a golden morning to bless the couple. Sun, 20 Dec 2026 6:00 PM onwards The Rose Garden Hall, Chennai Get Directions Add to Calendar Wedding Event · 02 Mehndi Intricate henna, jasmine strands and songs under the evening trees. Fri, 12 Feb 2027 9:00 AM Bride's Residence, Mylapore Get Directions Add to Calendar Wedding Event · 03 Sangeet Music, dance and a night of celebration with family and friends. Sun, 14 Feb 2027 7:00 PM Suryagarh Palace, Jaisalmer Get Directions Add to Calendar Wedding Event · 04 Wedding The sacred thaali ceremony under the floral mandapam, amid nadaswaram and blessings. Tue, 16 Feb 2027 7:00 PM Suryagarh Palace, Jaisalmer Get Directions Add to Calendar Wedding Event · 05 Reception An elegant evening to greet the newlyweds and share a festive feast. Thu, 18 Feb 2027 7:00 PM Suryagarh Palace, Jaisalmer Get Directions Add to Calendar Wedding Event · 06 Custom Event Celebrate this memorable occasion with us as we create beautiful moments together. Thu, 18 Feb 2027 7:00 PM Suryagarh Palace, Jaisalmer Get Directions Add to Calendar Find Us Wedding Venue Where Hearts Unite Venue Suryagarh Palace Kahala Phata, Sam Road, Jaisalmer, Rajasthan 345001, India FEBRUARY 09, 2028 7:00 PM Get Directions Open Google Maps “Two souls, one heart, one beautiful journey.” K & S Kapil & Sapna ❦ ✿ ❦ "Thank You for Being Part of Our Celebration" Sunday | 21st Feb 2027 Suryagarh Palace, Jaisalmer ✦ www.myinvitations.io ✦ Back Use this Template MENU Home Wedding All Video Invitation Save The Date Video Ai Videos Website Invitation Reception Video PDF Invitation Engagement All Video Invitation PDF Invitation Anniversary All Video Invitation PDF Invitation Birthday All Video Invitation 1st Birthday Babies Kids Boys Teens Adults PDF Invitation House Warming All Video Invitation PDF Invitation × Login / Sign Up Sign in or create an account in seconds to save and share your invitation. Let's get you started! Verify your phone number to continue Recommended Continue instantly with WhatsApp No password needed · Takes 5 seconds › or Continue with SMS Receive OTP via text message › ⓘ We'll never spam you. Your number is safe with us and will only be used for login and important updates. No password needed · Secure · Quick Verify your phone number We'll send your OTP via WhatsApp SMS Phone Number +91 Send OTP via WhatsApp Send OTP via SMS 100% Secure No spam ever Takes 5 seconds or Send OTP via SMS instead Send OTP via WhatsApp instead › We only use your number to log you in and share important updates about your invitation. OTP sent successfully! We've sent a 6-digit code to +91 via WhatsApp SMS Enter OTP Enter the 6-digit code sent to your WhatsApp SMS Verify & Login Resend OTP Change number Your privacy is important to us We only use your number to log you in and share important updates about your invitation. 100% Secure Takes 5 seconds No spam ever
