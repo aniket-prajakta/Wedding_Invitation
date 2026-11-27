@@ -4306,11 +4306,26 @@ body.woocommerce-checkout .site-footer {
 													<div class="im-events-arch__actions">
 																	<a class="im-events-arch__btn im-events-arch__btn--directions" 
    href="https://www.google.com/maps/dir/?api=1&destination=19.577059,74.2245829" 
-   rel="noopener" 
+   onclick="handleMapsClick(event, this.href)"
    style="background-color:#b86b77;color:#ffffff;display:inline-flex;align-items:center;justify-content:center;text-decoration:none;">
     <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="pointer-events:none;"><polygon points="3 11 22 2 13 21 11 13 3 11"></polygon></svg>
     <span style="pointer-events:none;margin-left:6px;">Get Directions</span>
 </a>
+
+<script>
+function handleMapsClick(e, webUrl) {
+  var isAndroid = /Android/i.test(navigator.userAgent);
+  if (isAndroid) {
+    e.preventDefault();
+    // Native Android geo intent: opens the Maps app directly without opening a browser tab
+    window.location.href = "geo:19.577059,74.2245829?q=19.577059,74.2245829(Shree+Siddhivinayak+lawns)";
+  } else {
+    // Desktop: opens standard Google Maps in a new tab
+    window.open(webUrl, '_blank', 'noopener,noreferrer');
+    e.preventDefault();
+  }
+}
+</script>
 																									<a class="im-events-arch__btn im-events-arch__btn--calendar" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Aniket%20%26%20Prajakta%20%E2%80%94%20Engagement&amp;location=SHREE%20SIDDHIVINAYAK%20LAWNS%2C%20NEAR%20GANPATI%20TEMPLE%2C%20SAMNAPUR%20ROAD%2C%20SANGAMNER%2C%20DIST%20AHILYANAGAR&amp;ctz=Asia%2FKolkata&amp;dates=20261201T180000/20261201T235900" target="_blank" rel="noopener noreferrer" style="background-color:#fff8ec;color:#3a2a26;border-color:#d8b26e">
 										<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#3a2a26" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 13V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h8"></path><path d="M16 2v4"></path><path d="M8 2v4"></path><path d="M3 10h18"></path><path d="M19 16v6"></path><path d="M16 19h6"></path></svg>										<span>Add to Calendar</span>
 									</a>
