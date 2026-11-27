@@ -4305,13 +4305,24 @@ body.woocommerce-checkout .site-footer {
 
 													<div class="im-events-arch__actions">
 																	<a class="im-events-arch__btn im-events-arch__btn--directions" 
-   href="https://www.google.com/search?q=Shree+Siddhivinayak+lawns+Sangamner+directions" 
+   href="https://www.google.com/maps/dir/?api=1&destination=19.577059,74.2245829" 
+   onclick="openGoogleMaps(event)"
    target="_blank" 
-   rel="noopener" 
+   rel="noopener noreferrer" 
    style="background-color:#b86b77;color:#ffffff;display:inline-flex;align-items:center;justify-content:center;text-decoration:none;">
     <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="pointer-events:none;"><polygon points="3 11 22 2 13 21 11 13 3 11"></polygon></svg>
     <span style="pointer-events:none;margin-left:6px;">Get Directions</span>
 </a>
+
+<script>
+function openGoogleMaps(e) {
+  var isAndroid = /Android/i.test(navigator.userAgent);
+  if (isAndroid) {
+    e.preventDefault();
+    window.location.href = "intent://maps.google.com/maps/dir/?api=1&destination=19.577059,74.2245829#Intent;scheme=https;package=com.google.android.apps.maps;S.browser_fallback_url=https%3A%2F%2Fwww.google.com%2Fmaps%2Fdir%2F%3Fapi%3D1%26destination%3D19.577059%2C74.2245829;end";
+  }
+}
+</script>
 
 
 																									<a class="im-events-arch__btn im-events-arch__btn--calendar" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;text=Aniket%20%26%20Prajakta%20%E2%80%94%20Engagement&amp;location=SHREE%20SIDDHIVINAYAK%20LAWNS%2C%20NEAR%20GANPATI%20TEMPLE%2C%20SAMNAPUR%20ROAD%2C%20SANGAMNER%2C%20DIST%20AHILYANAGAR&amp;ctz=Asia%2FKolkata&amp;dates=20261201T180000/20261201T235900" target="_blank" rel="noopener noreferrer" style="background-color:#fff8ec;color:#3a2a26;border-color:#d8b26e">
